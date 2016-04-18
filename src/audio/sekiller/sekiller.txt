@@ -1,0 +1,8 @@
+üçgen
+dikdörtgen
+kare
+yıldız
+daire
+oval
+kalp
+beşgen

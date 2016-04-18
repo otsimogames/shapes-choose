@@ -1,0 +1,8 @@
+üçgeni göster
+dikdörtgeni göster
+kareyi göster
+yıldızı göster
+daireyi göster
+ovalı göster
+kalbi göster
+beşgeni göster
