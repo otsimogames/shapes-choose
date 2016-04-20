@@ -1,6 +1,6 @@
 {
     "unique_name": "shapes-choose",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "main": "index.html",
     "licence": "GPL",
     "languages": [
@@ -29,8 +29,8 @@
                 "hafıza",
                 "alfabe"
             ],
-            "logo": "i18n/tr/c-shapes-b.png",
-            "icon": "i18n/tr/c-shapes-s.png",
+            "logo": "i18n/tr/c-shapes-s.png",
+            "icon": "i18n/tr/c-shapes-b.png",
             "images": [
                 "i18n/tr/scr1.jpg",
                 "i18n/tr/scr1.jpg"
