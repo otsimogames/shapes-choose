@@ -378,5 +378,36 @@
     "play_background_color": "#03C03C",
     "home_background_color": "#03C03C",
     "over_background_color": "#03C03C",
-    "add_outline": false
+    "add_outline": false,
+    "name_shadow": {
+        "x": 4,
+        "y": 4,
+        "color": "#333333",
+        "blur": 2
+    },
+    "gameNameLayout": {
+        "anchor": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "x": {
+            "multiplier": 0.5,
+            "constant": 0
+        },
+        "y": {
+            "multiplier": 0.3,
+            "constant": 0
+        }
+    },
+    "gameNameTextStyle": {
+        "strokeThickness": 8,
+        "stroke": "#FFFFFF",
+        "font": "96px mfont",
+        "fill": "#18B9F2",
+        "align": "center",
+        "wordWrap": true,
+        "wordWrapWidth": 900,
+        "boundsAlignH": "center",
+        "boundsAlignV": "top"
+    }
 }
