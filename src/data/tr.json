@@ -12,14 +12,14 @@
   "settings/hint_duration/title": "İpucu Süresi",
   "settings/hint_duration/description": "Oyunun içindeki ipucularının süresini değiştirir.",
   "loadingText": "Yükleniyor...",
-  "loadingFont": "60px Arial",
+  "loadingFont": "60px mfont",
   "loadingBackground": "#03C03C",
   "loadingColor": "#fff",
   "announceText": "%s",
   "announceTextStyle": {
     "strokeThickness": 4,
     "stroke": "#FFFFFF",
-    "font": "65px Arial",
+    "font": "65px mfont",
     "align": "center"
   },
   "preload": [
