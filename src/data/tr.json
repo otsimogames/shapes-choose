@@ -17,7 +17,7 @@
     "loadingColor": "#fff",
     "announceText": "%s",
     "announceTextStyle": {
-        "strokeThickness": 4,
+        "strokeThickness": 10,
         "stroke": "#FFFFFF",
         "font": "65px mfont",
         "align": "center"
@@ -258,14 +258,14 @@
     },
     "layout": {
         "fixed_size": true,
-        "max_item": 4,
+        "max_item": 3.5,
         "cell_anchor": {
             "x": 0.5,
             "y": 0.5
         },
         "horizontal": {
             "width": {
-                "multiplier": 0.7,
+                "multiplier": 0.8,
                 "constant": 0
             },
             "y": {
@@ -301,7 +301,7 @@
     "sekiller": [
         {
             "image": "circle",
-            "tint": "0x00FF00",
+            "tint": "0xFFFFFF",
             "id": "circle",
             "kind": "circle",
             "audio": "circle_audio",
@@ -310,7 +310,7 @@
         },
         {
             "image": "hearth",
-            "tint": "0xFF0000",
+            "tint": "0xFFFFFF",
             "id": "hearth",
             "kind": "hearth",
             "audio": "hearth_audio",
@@ -319,7 +319,7 @@
         },
         {
             "image": "oval",
-            "tint": "0xFFFF00",
+            "tint": "0xFFFFFF",
             "id": "oval",
             "kind": "oval",
             "audio": "oval_audio",
@@ -328,7 +328,7 @@
         },
         {
             "image": "pentagon",
-            "tint": "0x0000FF",
+            "tint": "0xFFFFFF",
             "id": "pentagon",
             "kind": "pentagon",
             "audio": "pentagon_audio",
@@ -337,7 +337,7 @@
         },
         {
             "image": "rectangle",
-            "tint": "0x000000",
+            "tint": "0xFFFFFF",
             "id": "rectangle",
             "kind": "rectangle",
             "audio": "rectangle_audio",
@@ -346,7 +346,7 @@
         },
         {
             "image": "square",
-            "tint": "0x333300",
+            "tint": "0xFFFFFF",
             "id": "square",
             "kind": "square",
             "audio": "square_audio",
@@ -355,7 +355,7 @@
         },
         {
             "image": "star",
-            "tint": "0xCCFF00",
+            "tint": "0xFFFFFF",
             "id": "star",
             "kind": "star",
             "audio": "star_audio",
@@ -364,7 +364,7 @@
         },
         {
             "image": "triangle",
-            "tint": "0xCC9999",
+            "tint": "0xFFFFFF",
             "id": "triangle",
             "kind": "triangle",
             "audio": "triangle_audio",
@@ -372,7 +372,7 @@
             "text": "Üçgen"
         }
     ],
-    "custom_announce_color": "",
+    "custom_announce_color": "#FF6600",
     "background_image": "back_pattern",
     "decoration": [],
     "play_background_color": "#03C03C",
