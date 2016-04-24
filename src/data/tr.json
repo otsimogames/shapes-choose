@@ -223,6 +223,11 @@
             "name": "back_pattern",
             "type": "image",
             "path": "img/back_pattern.png"
+        },
+        {
+            "name": "back_pattern",
+            "type": "image",
+            "path": "img/back_pattern.png"
         }
     ],
     "game": {
