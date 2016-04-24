@@ -377,5 +377,6 @@
     "decoration": [],
     "play_background_color": "#03C03C",
     "home_background_color": "#03C03C",
-    "over_background_color": "#03C03C"
+    "over_background_color": "#03C03C",
+    "add_outline": false
 }
