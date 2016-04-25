@@ -268,8 +268,8 @@
         "balloon_sound": "balonpop"
     },
     "layout": {
-        "fixed_size": true,
-        "max_item": 3.5,
+        "fixed_size": false,
+        "max_item": 4,
         "cell_anchor": {
             "x": 0.5,
             "y": 0.5
@@ -393,8 +393,8 @@
     "name_shadow": {
         "x": 4,
         "y": 4,
-        "color": "#333333",
-        "blur": 2
+        "color": "rgba(0,0,0,0.2)",
+        "blur": 4
     },
     "gameNameLayout": {
         "anchor": {
@@ -406,15 +406,15 @@
             "constant": 0
         },
         "y": {
-            "multiplier": 0.3,
+            "multiplier": 0.4,
             "constant": 0
         }
     },
     "gameNameTextStyle": {
-        "strokeThickness": 8,
+        "strokeThickness": 10,
         "stroke": "#FFFFFF",
         "font": "96px mfont",
-        "fill": "#18B9F2",
+        "fill": "#FF6600",
         "align": "center",
         "wordWrap": true,
         "wordWrapWidth": 900,
@@ -440,7 +440,7 @@
             "constant": 0
         },
         "y": {
-            "multiplier": 0.7,
+            "multiplier": 0.6,
             "constant": 0
         }
     }
