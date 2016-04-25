@@ -7,7 +7,7 @@
         "url": "https://github.com/otsimo/memory-game-colors.git"
     },
     "author": "Sercan Değirmenci <sercan@otsimo.com>",
-    "license": "Apache 2",
+    "license": "Apache-2",
     "homepage": "https://github.com/otsimo/memory-game-colors",
     "dependencies": {
       "otsimo-matching-game": "^1.0.4"
