@@ -493,7 +493,7 @@
             }
         },
         "button": {
-            "delay": 3000,
+            "delay": 4200,
             "image": "playButton",
             "anchor": {
                 "x": 0.5,
