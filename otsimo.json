@@ -22,7 +22,7 @@
     "metadata": [
         {
             "language": "tr",
-            "visible_name": "Şekilleri Seçme",
+            "visible_name": "Şekilleri Öğren",
             "summary": "Kolayca şekilleri öğrenmek için seçme oyunudur.",
             "description": "Çocuklar seçenekler arasından seçerek şekilleri kolayca öğrenir ve tekrar edebilirler. Şekilleri hiç bilmeyen veya biraz bilen çocuklar için özel olarak geliştirilmiştir.",
             "keywords": [
@@ -33,7 +33,8 @@
             "icon": "i18n/tr/c-shapes-b.png",
             "images": [
               "i18n/tr/sc-src.png",
-              "i18n/tr/sc-src2.png"
+              "i18n/tr/sc-src2.png",
+              "i18n/tr/sc-src3.png"
             ],
             "assets": [
                 "img/tr",
