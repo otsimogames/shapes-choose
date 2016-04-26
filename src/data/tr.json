@@ -507,6 +507,8 @@
                 "multiplier": 0.7,
                 "constant": 0
             }
-        }
+        },
+        "correct_sound": "applause",
+        "click_sound": "clickSound"
     }
 }
