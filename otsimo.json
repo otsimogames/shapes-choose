@@ -1,15 +1,15 @@
 {
     "unique_name": "shapes-choose",
-    "version": "1.0.5",
+    "version": "1.1.0",
     "main": "index.html",
-    "licence": "GPL",
+    "licence": "GPL-3.0",
     "languages": [
         "tr"
     ],
     "default_language": "tr",
     "developer_name": "Otsimo",
-    "homepage": "https://github.com/otsimo/memory-game-colors",
-    "repository": "git@github.com:otsimo/memory-game-colors.git",
+    "homepage": "https://github.com/otsimogames/shapes-choose",
+    "repository": "https://github.com/otsimogames/shapes-choose.git",
     "authors": [
         {
             "name": "Otsimo",
@@ -32,9 +32,9 @@
             "logo": "i18n/tr/c-shapes-s.png",
             "icon": "i18n/tr/c-shapes-b.png",
             "images": [
-              "i18n/tr/sc-src.png",
-              "i18n/tr/sc-src2.png",
-              "i18n/tr/sc-src3.png"
+                "i18n/tr/sc-src.png",
+                "i18n/tr/sc-src2.png",
+                "i18n/tr/sc-src3.png"
             ],
             "assets": [
                 "img/tr",
