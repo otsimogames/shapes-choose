@@ -268,7 +268,7 @@
         "answers_from": "sekiller",
         "hint_type": "jump",
         "hide_item_on": 1,
-        "hiding_type": "fade",
+        "hiding_type": "move",
         "hiding_fade_alpha": 0.2,
         "hiding_fade_duration": 200,
         "hiding_move_duration": 300,
