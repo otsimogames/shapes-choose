@@ -44,14 +44,14 @@
         },
         {
             "language": "en",
-            "visible_name": "Şekilleri Öğren",
-            "summary": "Kolayca şekilleri öğrenmek için seçme oyunudur.",
-            "description": "Çocuklar seçenekler arasından seçerek şekilleri kolayca öğrenir ve tekrar edebilirler. Şekilleri hiç bilmeyen veya biraz bilen çocuklar için özel olarak geliştirilmiştir.",
+            "visible_name": "Learn Shapes",
+            "summary": "Small choosing game to learn shapes",
+            "description": "Children learn the shapes by selecting options easily. Shape Game has been specially developed for children who have little or no knowledge about shapes.",
             "keywords": [
-                "çizim",
-                "harf"
+                "learn",
+                "shapes"
             ],
-            "logo": "i18n/en/c-shapes-s.png",
+            "logo": "i18n/tr/c-shapes-s.png",
             "icon": "i18n/en/c-shapes-b-en.png",
             "images": [
                 "i18n/en/sc-src.png",
