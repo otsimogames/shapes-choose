@@ -1,17 +1,17 @@
 {
-    "settings/difficulty/title": "Zorluk",
-    "settings/difficulty/description": "Oyunun zorluk ayarı",
-    "settings/difficulty/keys/easy/title": "Kolay",
-    "settings/difficulty/keys/easy/description": "Kolay",
-    "settings/difficulty/keys/medium/title": "Orta",
-    "settings/difficulty/keys/medium/description": "Orta",
-    "settings/difficulty/keys/hard/title": "Zor",
-    "settings/difficulty/keys/hard/description": "Zor",
-    "settings/show_hint/title": "İpucu Göster",
-    "settings/show_hint/description": "Oyunun içindeki ipucularını açar, kapar",
-    "settings/hint_duration/title": "İpucu Süresi",
-    "settings/hint_duration/description": "Oyunun içindeki ipucularının süresini değiştirir.",
-    "loadingText": "Yükleniyor...",
+    "settings/difficulty/title": "Difficulty",
+    "settings/difficulty/description": "Difficulty of the game",
+    "settings/difficulty/keys/easy/title": "Easy",
+    "settings/difficulty/keys/easy/description": "Easy",
+    "settings/difficulty/keys/medium/title": "Medium",
+    "settings/difficulty/keys/medium/description": "Medium",
+    "settings/difficulty/keys/hard/title": "Hard",
+    "settings/difficulty/keys/hard/description": "Hard",
+    "settings/show_hint/title": "Show Hint",
+    "settings/show_hint/description": "Enable or Disable the hints during the game",
+    "settings/hint_duration/title": "Hint Duration",
+    "settings/hint_duration/description": "Duration of the hints",
+    "loadingText": "Loading...",
     "loadingFont": "60px mfont",
     "loadingBackground": "#03C03C",
     "loadingColor": "#fff",
@@ -113,86 +113,6 @@
             "name": "try_again",
             "type": "audio",
             "path": "audio/tr/tekrar_dene.mp3"
-        },
-        {
-            "name": "circle_audio",
-            "type": "audio",
-            "path": "audio/sekiller/sound/daire.mp3"
-        },
-        {
-            "name": "circle_question",
-            "type": "audio",
-            "path": "audio/sekiller/soundg/daireyi_goster.mp3"
-        },
-        {
-            "name": "hearth_audio",
-            "type": "audio",
-            "path": "audio/sekiller/sound/kalp.mp3"
-        },
-        {
-            "name": "hearth_question",
-            "type": "audio",
-            "path": "audio/sekiller/soundg/kalbi_goster.mp3"
-        },
-        {
-            "name": "oval_audio",
-            "type": "audio",
-            "path": "audio/sekiller/sound/oval.mp3"
-        },
-        {
-            "name": "oval_question",
-            "type": "audio",
-            "path": "audio/sekiller/soundg/ovali_goster.mp3"
-        },
-        {
-            "name": "pentagon_audio",
-            "type": "audio",
-            "path": "audio/sekiller/sound/besgen.mp3"
-        },
-        {
-            "name": "pentagon_question",
-            "type": "audio",
-            "path": "audio/sekiller/soundg/besgeni_goster.mp3"
-        },
-        {
-            "name": "rectangle_audio",
-            "type": "audio",
-            "path": "audio/sekiller/sound/dikdortgen.mp3"
-        },
-        {
-            "name": "rectangle_question",
-            "type": "audio",
-            "path": "audio/sekiller/soundg/dikdortgeni_goster.mp3"
-        },
-        {
-            "name": "square_audio",
-            "type": "audio",
-            "path": "audio/sekiller/sound/kare.mp3"
-        },
-        {
-            "name": "square_question",
-            "type": "audio",
-            "path": "audio/sekiller/soundg/kareyi_goster.mp3"
-        },
-        {
-            "name": "star_audio",
-            "type": "audio",
-            "path": "audio/sekiller/sound/yildiz.mp3"
-        },
-        {
-            "name": "star_question",
-            "type": "audio",
-            "path": "audio/sekiller/soundg/yildizi_goster.mp3"
-        },
-        {
-            "name": "triangle_audio",
-            "type": "audio",
-            "path": "audio/sekiller/sound/ucgen.mp3"
-        },
-        {
-            "name": "triangle_question",
-            "type": "audio",
-            "path": "audio/sekiller/soundg/ucgeni_goster.mp3"
         },
         {
             "name": "ballon_body",
@@ -333,72 +253,80 @@
             "tint": "0xFFFFFF",
             "id": "circle",
             "kind": "circle",
-            "audio": "circle_audio",
-            "question": "circle_question",
-            "text": "Daire"
+            "audio": "circle",
+            "question": "show the circle",
+            "text": "Circle",
+            "tts": true
         },
         {
             "image": "hearth",
             "tint": "0xFFFFFF",
             "id": "hearth",
             "kind": "hearth",
-            "audio": "hearth_audio",
-            "question": "hearth_question",
-            "text": "Kalp"
+            "audio": "hearth",
+            "question": "show the hearth",
+            "text": "Hearth",
+            "tts": true
         },
         {
             "image": "oval",
             "tint": "0xFFFFFF",
             "id": "oval",
             "kind": "oval",
-            "audio": "oval_audio",
-            "question": "oval_question",
-            "text": "Oval"
+            "audio": "oval",
+            "question": "show the oval",
+            "text": "Oval",
+            "tts": true
         },
         {
             "image": "pentagon",
             "tint": "0xFFFFFF",
             "id": "pentagon",
             "kind": "pentagon",
-            "audio": "pentagon_audio",
-            "question": "pentagon_question",
-            "text": "Beşgen"
+            "audio": "pentagon",
+            "question": "show the pentagon",
+            "text": "Pentagon",
+            "tts": true
         },
         {
             "image": "rectangle",
             "tint": "0xFFFFFF",
             "id": "rectangle",
             "kind": "rectangle",
-            "audio": "rectangle_audio",
-            "question": "rectangle_question",
-            "text": "Dikdörtgen"
+            "audio": "rectangle",
+            "question": "show the rectangle",
+            "text": "Rectangle",
+            "tts": true
         },
         {
             "image": "square",
             "tint": "0xFFFFFF",
             "id": "square",
             "kind": "square",
-            "audio": "square_audio",
-            "question": "square_question",
-            "text": "Kare"
+            "audio": "square",
+            "question": "show the square",
+            "text": "Square",
+            "tts": true
         },
         {
             "image": "star",
             "tint": "0xFFFFFF",
             "id": "star",
             "kind": "star",
-            "audio": "star_audio",
-            "question": "star_question",
-            "text": "Yıldız"
+            "audio": "star",
+            "question": "show the star",
+            "text": "Star",
+            "tts": true
         },
         {
             "image": "triangle",
             "tint": "0xFFFFFF",
             "id": "triangle",
             "kind": "triangle",
-            "audio": "triangle_audio",
-            "question": "triangle_question",
-            "text": "Üçgen"
+            "audio": "triangle",
+            "question": "show the triangle",
+            "text": "Triangle",
+            "tts": true
         }
     ],
     "custom_announce_color": "#FF6600",
@@ -465,8 +393,8 @@
         "victory_sound": "victorySound",
         "duration": 1000,
         "text": {
-            "text": "Tebrikler",
-            "sound": "congSound",
+            "text": "Congratulations",
+            "sound": "congratulations",
             "style": {
                 "strokeThickness": 18,
                 "stroke": "#FFFFFF",
@@ -490,7 +418,8 @@
             "y": {
                 "multiplier": 0.3,
                 "constant": 0
-            }
+            },
+            "tts": true
         },
         "button": {
             "delay": 4200,
