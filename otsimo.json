@@ -1,6 +1,6 @@
 {
     "unique_name": "shapes-choose",
-    "version": "1.6.4",
+    "version": "1.6.5",
     "main": "index.html",
     "licence": "GPL-3.0",
     "languages": [
@@ -64,5 +64,6 @@
             ]
         }
     ],
-    "loading_color": "#03C03C"
+    "loading_color": "#03C03C",
+    "ab_test": ""
 }
