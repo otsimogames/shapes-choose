@@ -65,5 +65,8 @@
         }
     ],
     "loading_color": "#03C03C",
-    "ab_test": ""
+    "ab_test": "",
+    "labels": {
+        "categories": "shape,choose"
+    }
 }
