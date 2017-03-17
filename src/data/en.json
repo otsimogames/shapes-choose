@@ -97,7 +97,7 @@
         {
             "name": "congratulations",
             "type": "audio",
-            "path": "audio/tr/tebrikler.mp3"
+            "path": "audio/en/congratulations!.mp3"
         },
         {
             "name": "applause",
@@ -112,7 +112,7 @@
         {
             "name": "try_again",
             "type": "audio",
-            "path": "audio/tr/tekrar_dene.mp3"
+            "path": "audio/en/try-again!.mp3"
         },
         {
             "name": "ballon_body",
@@ -173,6 +173,86 @@
             "name": "congSound",
             "type": "audio",
             "path": "audio/tr/tebrikler.mp3"
+        },
+         {
+            "name": "circle_audio",
+            "type": "audio",
+            "path": "audio/sekiller/soundeng/circle.mp3"
+        },
+        {
+            "name": "circle_question",
+            "type": "audio",
+            "path": "audio/sekiller/soundgeng/show-the-circle.mp3"
+        },
+        {
+            "name": "hearth_audio",
+            "type": "audio",
+            "path": "audio/sekiller/soundeng/hearth.mp3"
+        },
+        {
+            "name": "hearth_question",
+            "type": "audio",
+            "path": "audio/sekiller/soundgeng/show-the-hearth.mp3"
+        },
+        {
+            "name": "oval_audio",
+            "type": "audio",
+            "path": "audio/sekiller/soundeng/oval.mp3"
+        },
+        {
+            "name": "oval_question",
+            "type": "audio",
+            "path": "audio/sekiller/soundgeng/show-the-oval.mp3"
+        },
+        {
+            "name": "pentagon_audio",
+            "type": "audio",
+            "path": "audio/sekiller/soundeng/pentagon.mp3"
+        },
+        {
+            "name": "pentagon_question",
+            "type": "audio",
+            "path": "audio/sekiller/soundgeng/show-the-pentagon.mp3"
+        },
+        {
+            "name": "rectangle_audio",
+            "type": "audio",
+            "path": "audio/sekiller/soundeng/rectangle.mp3"
+        },
+        {
+            "name": "rectangle_question",
+            "type": "audio",
+            "path": "audio/sekiller/soundgeng/show-the-rectangle.mp3"
+        },
+        {
+            "name": "square_audio",
+            "type": "audio",
+            "path": "audio/sekiller/soundeng/square.mp3"
+        },
+        {
+            "name": "square_question",
+            "type": "audio",
+            "path": "audio/sekiller/soundgeng/show-the-square.mp3"
+        },
+        {
+            "name": "star_audio",
+            "type": "audio",
+            "path": "audio/sekiller/soundeng/star.mp3"
+        },
+        {
+            "name": "star_question",
+            "type": "audio",
+            "path": "audio/sekiller/soundgeng/show-the-star.mp3"
+        },
+        {
+            "name": "triangle_audio",
+            "type": "audio",
+            "path": "audio/sekiller/soundeng/triangle.mp3"
+        },
+        {
+            "name": "triangle_question",
+            "type": "audio",
+            "path": "audio/sekiller/soundgeng/show-the-triangle.mp3"
         }
     ],
     "game": {
@@ -257,80 +337,72 @@
             "tint": "0xFFFFFF",
             "id": "circle",
             "kind": "circle",
-            "audio": "circle",
-            "question": "show the circle",
-            "text": "Circle",
-            "tts": true
+            "audio": "circle_audio",
+            "question": "circle_question",
+            "text": "Circle" 
         },
         {
             "image": "hearth",
             "tint": "0xFFFFFF",
             "id": "hearth",
             "kind": "hearth",
-            "audio": "hearth",
-            "question": "show the hearth",
-            "text": "Hearth",
-            "tts": true
+            "audio": "hearth_audio",
+            "question": "hearth_question",
+            "text": "Hearth" 
         },
         {
             "image": "oval",
             "tint": "0xFFFFFF",
             "id": "oval",
             "kind": "oval",
-            "audio": "oval",
-            "question": "show the oval",
-            "text": "Oval",
-            "tts": true
+            "audio": "oval_audio",
+            "question": "oval_question",
+            "text": "Oval" 
         },
         {
             "image": "pentagon",
             "tint": "0xFFFFFF",
             "id": "pentagon",
             "kind": "pentagon",
-            "audio": "pentagon",
-            "question": "show the pentagon",
-            "text": "Pentagon",
-            "tts": true
+            "audio": "pentagon_audio",
+            "question": "pentagon_question",
+            "text": "Pentagon" 
         },
         {
             "image": "rectangle",
             "tint": "0xFFFFFF",
             "id": "rectangle",
             "kind": "rectangle",
-            "audio": "rectangle",
-            "question": "show the rectangle",
-            "text": "Rectangle",
-            "tts": true
+            "audio": "rectangle_audio",
+            "question": "rectangle_question",
+            "text": "Rectangle" 
         },
         {
             "image": "square",
             "tint": "0xFFFFFF",
             "id": "square",
             "kind": "square",
-            "audio": "square",
-            "question": "show the square",
-            "text": "Square",
-            "tts": true
+            "audio": "square_audio",
+            "question": "square_question",
+            "text": "Square" 
         },
         {
             "image": "star",
             "tint": "0xFFFFFF",
             "id": "star",
             "kind": "star",
-            "audio": "star",
-            "question": "show the star",
-            "text": "Star",
-            "tts": true
+            "audio": "star_audio",
+            "question": "star_question",
+            "text": "Star" 
         },
         {
             "image": "triangle",
             "tint": "0xFFFFFF",
             "id": "triangle",
             "kind": "triangle",
-            "audio": "triangle",
-            "question": "show the triangle",
-            "text": "Triangle",
-            "tts": true
+            "audio": "triangle_audio",
+            "question": "triangle_question",
+            "text": "Triangle" 
         }
     ],
     "custom_announce_color": "#FF6600",
