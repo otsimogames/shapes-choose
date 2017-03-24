@@ -174,7 +174,7 @@
             "type": "audio",
             "path": "audio/tr/tebrikler.mp3"
         },
-         {
+        {
             "name": "circle_audio",
             "type": "audio",
             "path": "audio/sekiller/soundeng/circle.mp3"
@@ -339,7 +339,7 @@
             "kind": "circle",
             "audio": "circle_audio",
             "question": "circle_question",
-            "text": "Circle" 
+            "text": "Circle"
         },
         {
             "image": "hearth",
@@ -348,7 +348,7 @@
             "kind": "hearth",
             "audio": "hearth_audio",
             "question": "hearth_question",
-            "text": "Hearth" 
+            "text": "Hearth"
         },
         {
             "image": "oval",
@@ -357,7 +357,7 @@
             "kind": "oval",
             "audio": "oval_audio",
             "question": "oval_question",
-            "text": "Oval" 
+            "text": "Oval"
         },
         {
             "image": "pentagon",
@@ -366,7 +366,7 @@
             "kind": "pentagon",
             "audio": "pentagon_audio",
             "question": "pentagon_question",
-            "text": "Pentagon" 
+            "text": "Pentagon"
         },
         {
             "image": "rectangle",
@@ -375,7 +375,7 @@
             "kind": "rectangle",
             "audio": "rectangle_audio",
             "question": "rectangle_question",
-            "text": "Rectangle" 
+            "text": "Rectangle"
         },
         {
             "image": "square",
@@ -384,7 +384,7 @@
             "kind": "square",
             "audio": "square_audio",
             "question": "square_question",
-            "text": "Square" 
+            "text": "Square"
         },
         {
             "image": "star",
@@ -393,7 +393,7 @@
             "kind": "star",
             "audio": "star_audio",
             "question": "star_question",
-            "text": "Star" 
+            "text": "Star"
         },
         {
             "image": "triangle",
@@ -402,7 +402,7 @@
             "kind": "triangle",
             "audio": "triangle_audio",
             "question": "triangle_question",
-            "text": "Triangle" 
+            "text": "Triangle"
         }
     ],
     "custom_announce_color": "#FF6600",
@@ -466,7 +466,7 @@
         }
     },
     "ending_scene": {
-        "victory_sound": "victorySound",
+        "victory_sound": "congratulations",
         "duration": 1000,
         "text": {
             "text": "Congratulations",
