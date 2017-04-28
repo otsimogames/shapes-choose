@@ -1,6 +1,6 @@
 {
     "unique_name": "shapes-choose",
-    "version": "1.7.11",
+    "version": "1.7.24",
     "main": "index.html",
     "licence": "GPL-3.0",
     "languages": [
@@ -31,7 +31,7 @@
                 "alfabe"
             ],
             "logo": "i18n/tr/c-shapes-s.png",
-            "icon": "i18n/tr/c-shapes-b.png",
+            "icon": "i18n/tr/c-shapes-s.png",
             "images": [
                 "i18n/tr/sc-src.png",
                 "i18n/tr/sc-src2.png",
@@ -52,7 +52,7 @@
                 "shapes"
             ],
             "logo": "i18n/tr/c-shapes-s.png",
-            "icon": "i18n/en/c-shapes-b-en.png",
+            "icon": "i18n/tr/c-shapes-s.png",
             "images": [
                 "i18n/en/sc-src.png",
                 "i18n/en/sc-src2.png",
