@@ -423,7 +423,7 @@
             "constant": 0
         },
         "y": {
-            "multiplier": 0.4,
+            "multiplier": 0.35,
             "constant": 0
         }
     },
@@ -457,7 +457,7 @@
             "constant": 0
         },
         "y": {
-            "multiplier": 0.6,
+            "multiplier": 0.7,
             "constant": 0
         }
     },
