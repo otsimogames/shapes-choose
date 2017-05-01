@@ -30,8 +30,8 @@
                 "hafıza",
                 "alfabe"
             ],
-            "logo": "i18n/tr/c-shapes-s.png",
-            "icon": "i18n/tr/c-shapes-s.png",
+            "logo": "i18n/logo.png",
+            "icon": "i18n/icon.png",
             "images": [
                 "i18n/tr/sc-src.png",
                 "i18n/tr/sc-src2.png",
@@ -51,8 +51,8 @@
                 "learn",
                 "shapes"
             ],
-            "logo": "i18n/tr/c-shapes-s.png",
-            "icon": "i18n/tr/c-shapes-s.png",
+            "logo": "i18n/logo.png",
+            "icon": "i18n/icon.png",
             "images": [
                 "i18n/en/sc-src.png",
                 "i18n/en/sc-src2.png",
