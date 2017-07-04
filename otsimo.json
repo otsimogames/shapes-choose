@@ -1,6 +1,6 @@
 {
     "unique_name": "shapes-choose",
-    "version": "1.7.34",
+    "version": "1.7.47",
     "main": "index.html",
     "licence": "GPL-3.0",
     "languages": [
@@ -67,6 +67,7 @@
     "loading_color": "#03C03C",
     "ab_test": "",
     "labels": {
-        "categories": "shape,choose"
+        "categories": "choose,shape",
+        "analytics": "playing-duration,success-failure"
     }
 }
