@@ -1,6 +1,6 @@
 {
     "name": "otsimo-shapes-choose",
-    "version": "1.7.48",
+    "version": "1.8.0",
     "description": "",
     "repository": {
         "type": "git",
@@ -11,8 +11,8 @@
     "homepage": "https://github.com/otsimogames/shapes-choose",
     "dependencies": {
         "babel-runtime": "^6.6.1",
-        "otsimo": "1.8.15",
-        "otsimo-matching-game": "1.8.8"
+        "otsimo": "1.8.24",
+        "otsimo-matching-game": "1.8.22"
     },
     "scripts": {
         "test": "eslint js/*.js",

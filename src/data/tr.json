@@ -490,7 +490,8 @@
             "y": {
                 "multiplier": 0.3,
                 "constant": 0
-            }
+            },
+            "tts": false
         },
         "button": {
             "delay": 4200,
